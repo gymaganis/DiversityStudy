@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ToggleButton
+        android:id="@+id/ToggleServiceButton"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:textOff="@string/start_service_button_text"
+        android:textOn="@string/stop_service_button_text"
+        android:textSize="20sp"
+        android:textStyle="bold" >
+    </ToggleButton>
+
+</LinearLayout>

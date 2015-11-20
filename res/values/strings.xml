@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">PrefStudy</string>
+    <string name="start_service_button_text">Participate!</string>
+    <string name="stop_service_button_text">Stop</string>
+
+</resources>
